@@ -85,7 +85,7 @@ public class Main extends Application {
         alert.show();
     }
 
-      public static void main(String[] args) {
+    public static void main(String[] args) {
 
         launch(args);
     }
