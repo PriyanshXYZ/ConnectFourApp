@@ -4,14 +4,14 @@
 - I used [JavaFX](https://docs.oracle.com/javafx/2/overview/jfxpub-overview.htm) package in with the help of [Scene builder](https://gluonhq.com/products/scene-builder/) to make this simple game.
 - I used the `MINMAX Algorithm` in this.
 - BASIC APP PREVIEW IS LIKE THIS
-  ![img]("app_preview.JPG")
+  ![img](app_preview.JPG)
 - the game ends when there is any possible combination of 4 dots like shown below
   - diagonal dots connected
-    ![img]("diagonal_combination.JPG")
+    ![img](diagonal_combination.JPG)
   - horizontal dots connected
-    ![img]("horizontal_combination.JPG")   
+    ![img](horizontal_combination.JPG)   
   - vertical dots connected
-    ![img]("vertical_combination.JPG") 
+    ![img](vertical_combination.JPG) 
 - **_TODO :-_**
   - adding computer based AI in this.
   - adding to save the data of the user's win 
