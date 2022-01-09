@@ -182,7 +182,7 @@ public class Controller implements Initializable {
 
         Alert alert = new Alert(Alert.AlertType.INFORMATION);
         alert.setTitle("ConnectFour");
-        alert.setHeaderText("The Winner is"+ winner);
+        alert.setHeaderText("The Winner is "+ winner);
         alert.setContentText("Want to Play again?");
 
         ButtonType yesbtn = new ButtonType("Yes");
